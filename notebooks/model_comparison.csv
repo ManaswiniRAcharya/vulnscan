@@ -1,0 +1,4 @@
+Model,Accuracy,F1 Score,CV Mean
+Random Forest,75.00%,0.733,0.504
+Gradient Boosting,75.00%,0.733,0.463
+XGBoost,75.00%,0.733,0.420
